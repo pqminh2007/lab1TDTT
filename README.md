@@ -1,20 +1,20 @@
-# Study Assistant — starter
+# \# Lab 01 - Developer Environment
 
-A starter repository for the CSC10014 Smart Virtual Assistant project.
+# 
 
-## Setup
+# \## Setup
 
-TODO (Lab 1): write the exact steps a new teammate needs, from a fresh machine to
-running the app and the tests. Your partner will follow them without your help.
+# Prerequisites: Python 3.10+, Git.
 
-## Run
+# 
 
-TODO
+# ```powershell
 
-## Test
+# python -m venv .venv
 
-TODO
+# .venv\\Scripts\\Activate.ps1
 
-## Project structure
+# pip install -r requirements.txt
 
-TODO
+# pip install -e .
+
